@@ -4,9 +4,9 @@ RusLotto — это скрипт для поиска лотерейных бил
 
 Требования:
 Для запуска скрипта необходимо установить несколько библиотек. Убедитесь, что у вас установлен Python 3, и выполните следующие команды в терминале или командной строке:
-pip install selenium
-pip install webdriver-manager
-pip install fake-useragent
+`pip install selenium`
+`pip install webdriver-manager`
+`pip install fake-useragent`
 
 Запуск:
 Клонируйте репозиторий на свой компьютер или загрузите скрипт RusLotto.py.
